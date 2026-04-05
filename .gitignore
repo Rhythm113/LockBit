@@ -1,0 +1,6 @@
+*.c
+*.exe
+*.i64
+*.bin
+*.dll
+__pycache__/
